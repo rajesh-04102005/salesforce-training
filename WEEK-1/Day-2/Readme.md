@@ -263,36 +263,6 @@ Completed Topics:
 
 ---
 
-# Screenshots from Trailhead
-
-## Add Screenshots Here
-
-### 1. Agentforce 360 Platform Basics Badge
-
-```md
-![Platform Basics Badge](images/platform-basics-badge.png)
-```
-
-### 2. Agentforce 360 Platform Development Basics Badge
-
-```md
-![Development Basics Badge](images/development-basics-badge.png)
-```
-
-### 3. Salesforce Architecture Lesson
-
-```md
-![Salesforce Architecture](images/salesforce-architecture.png)
-```
-
-### 4. Setup Navigation Page
-
-```md
-![Setup Navigation](images/setup-navigation.png)
-```
-
----
-
 # Key Learnings
 
 - Salesforce is a cloud-based CRM platform
