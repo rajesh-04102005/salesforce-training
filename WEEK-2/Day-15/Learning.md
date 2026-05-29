@@ -1,0 +1,22 @@
+# Topics Learned - Day 15 Data Management
+
+- Data Import Wizard
+- Data Export Service
+- Data Loader Basics
+- CSV File Handling
+- Data Migration Concepts
+- Data Mapping During Import
+- Bulk Data Operations
+- Data Quality Management
+- Duplicate Records and Prevention
+- Matching Rules
+- Duplicate Rules
+- Validation Rules
+- Required Fields for Data Integrity
+- Data Consistency Standards
+- Data Governance Principles
+- Enterprise Data Management
+- Risks of Poor Data Quality
+- Data Cleansing Techniques
+- Import and Export Best Practices
+- Enterprise Reliability Through Clean Data
