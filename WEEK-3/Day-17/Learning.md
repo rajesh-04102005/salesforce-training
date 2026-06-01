@@ -1,0 +1,22 @@
+# Day 17 Learning Topics
+
+- Introduction to Agentforce
+- Agentic AI Concepts
+- Salesforce AI Ecosystem
+- Enterprise AI Applications
+- Agentforce Vibes Extension
+- AI-Assisted Developer Workflow
+- Agentforce DX
+- AI Agents and Actions
+- Topics and Prompt-Driven Workflows
+- Agent Customization with Apex
+- AI and Business Logic Integration
+- Enterprise AI Agent Use Cases
+- AI Workflow Architecture
+- Flow and Apex Integration
+- Enterprise Automation
+- AI Governance and Guardrails
+- Risks of Enterprise AI
+- Hallucinations and Bias in AI
+- Privacy and Security Considerations
+- Future of AI in Enterprise Software
