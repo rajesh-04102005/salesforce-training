@@ -1,0 +1,23 @@
+# Learning Topics
+
+- Salesforce Security Model
+- Organization-Wide Defaults (OWD)
+- Role Hierarchy
+- Sharing Rules
+- Profiles
+- Permission Sets
+- Permission Set Groups
+- Object-Level Security
+- Field-Level Security (FLS)
+- Record-Level Security
+- User Management
+- Password Policies
+- Login IP Restrictions
+- Login Hours
+- Public Groups
+- Criteria-Based Sharing Rules
+- Owner-Based Sharing Rules
+- Access Control Design
+- Enterprise Security Model
+- Data Visibility Management
+- Recruiting App Security Configuration
